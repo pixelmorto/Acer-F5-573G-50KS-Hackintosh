@@ -4,7 +4,7 @@
 
 ### What's working
 - [x] HDMI + Audio
-- [x] Brightness control
+
 - [x] Gestures
 - [x] Audio & headphone jack
 - [x] Ethernet 
@@ -13,8 +13,9 @@
 
 
 ### Won't working
-- [ ] 940MX (dGPU) 
-- [ ] Bluetooth using INTEL8620
+- [x] 940MX (dGPU) 
+- [x] Brightness control
+- [x] Bluetooth using INTEL8620
 
 
 # How to Install
